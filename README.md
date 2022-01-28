@@ -58,3 +58,6 @@ Continue the guide if you wish to create a desktop icon.
 1. Go to your desktop and right click on the new made Stakenet DEX entry
 1. Heads up to the *Permissions* tab and verify that the  **Allow executing file as program** is **checked**
    ![alt text](https://imgur.com/9tJR0P3.png)
+   
+## 4. You're done !
+Enjoy trading ! If you had a problem launching, reach out the [dex-support channel](https://discord.com/channels/374568694690611202/747528337123180615) on the Stakenet discord !
