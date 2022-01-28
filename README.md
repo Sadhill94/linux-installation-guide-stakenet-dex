@@ -17,7 +17,6 @@ Open your terminal and type
 ```
 sudo unzip ~/Downloads/Stakenet.zip -d /opt/Stakenet
 ```
-_Replace Programs by the folder of your choice if you choosed to not create __Programs__ folder._
 
 ## 3. Launching the DEX
 At this stage you can already use the dex, you can either use the raw launch via terminal 
